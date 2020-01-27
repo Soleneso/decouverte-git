@@ -10,6 +10,12 @@ const menu = `
 <li>
 <a href="presentation.html">presentation</a>
 </li>
+<li>
+<a href="emmet.html">emmet</a>
+</li>
+<li>
+<a href="decouverte.html">decouverte</a>
+</li>
 </ul>
 `;
 
